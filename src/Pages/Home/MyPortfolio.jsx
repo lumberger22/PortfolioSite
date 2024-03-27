@@ -11,7 +11,9 @@ export default function MyPortfolio() {
                     <h2 className="section--heading">My Portfolio</h2>
                 </div>
                 <div>
-                    <button className="btn btn-primary">Check out my Github</button>
+                    <a href="https://github.com/lumberger22/" target="_blank">
+                        <button className="btn btn-primary">Check out my Github</button>
+                    </a>
                 </div>
             </div>
             <div className="portfolio--section--container">
