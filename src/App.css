@@ -19,11 +19,13 @@ p {
 }
 
 :root {
-    --primary: #5e3bee;
-    --heading-color: #282938;
+    --primary: #1a12ff;
+    --primary1: #e62872;
+    --heading-color: #243736;
     --bg-shade: #f5fcff;
+    --bg-shade-bright: #ebf9ff;
     --github: #e62872;
-    --darkblue: #1c1e53;
+    --darkblue: #243736;
     --black: #000000;
     --white: #ffffff;
 }
@@ -311,7 +313,7 @@ h3 {
     gap: 32px;
     flex: 1 0 0;
     border-radius: 10.6px;
-    background: var(--bg-shade);
+    background: var(--bg-shade-bright);
     min-height: 250px;
 }
 
