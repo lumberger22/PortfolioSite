@@ -67,20 +67,6 @@ function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to="MyPortfolio"
-                            className="navbar--content"
-                        >
-                            Portfolio
-                        </Link>
-                    </li>
-                    <li>
-                        <Link 
-                            onClick={closeMenu} 
-                            activeClass="navbar--active-content"
-                            spy={true}
-                            smooth={true}
-                            offset={-70}
-                            duration={500}
                             to="AboutMe"
                             className="navbar--content"
                         >
@@ -95,10 +81,10 @@ function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to="Testimonials"
+                            to="MyPortfolio"
                             className="navbar--content"
                         >
-                            Testimonials
+                            Portfolio
                         </Link>
                     </li>
                 </ul>
