@@ -4,25 +4,25 @@
             "id": "1",
             "src": "./img/product-chain-1.png",
             "title": "Front-End",
-            "description": "Lorem ipsum ipsum dolor sit amet, consectetur adipsdks skdnsnfd sjndjnfd sjdnjds sjjs djs d"
+            "description": "React.js, JavaScript, HTML5, CSS3, npm, Bootstrap, Foundation"
         },
         {
             "id": "2",
             "src": "./img/tag-1.png",
             "title": "Back-End",
-            "description": "Lorem ipsum ipsum dolor sit amet, consectetur adipsdks skdnsnfd sjndjnfd sjdnjds sjjs djs d"
+            "description": "Java, Python, C, Node.js, Spring Boot, PostgreSQL, Supabase, Ansible"
         },
         {
             "id": "3",
             "src": "./img/feather-pen-2.png",
-            "title": "UI & UX Design",
-            "description": "Lorem ipsum ipsum dolor sit amet, consectetur adipsdks skdnsnfd sjndjnfd sjdnjds sjjs djs d"
+            "title": "Collaboration",
+            "description": "Agile methodologies, Jira, Confluence, Git, DOORS, GitLab"
         },
         {
             "id": "4",
             "src": "./img/feather-pen-1.png",
-            "title": "Webflow Development",
-            "description": "Lorem ipsum ipsum dolor sit amet, consectetur adipsdks skdnsnfd sjndjnfd sjdnjds sjjs djs d"
+            "title": "Concept Knowledge",
+            "description": "Data Structures and Algorithms, Linux, Scripting, API, Operating Systems, Version Control"
         }
     ],
 
@@ -30,23 +30,23 @@
         {
             "id": "1",
             "src": "./img/placeholder-image.png",
-            "title": "Project 1",
-            "description": "Lorem ipsum ipsum dolor sit amet, consectetur adipsdks skdnsnfd sjndjnfd sjdnjds sjjs djs d",
-            "link": "View In Github"
+            "title": "Local Drafts",
+            "description": "Website designed to facilitate the discovery of breweries in ones immediate vicinity. Built with React.js, CSS, HTML, and Open Brewery DB API",
+            "link": "https://github.com/lumberger22/LocalDrafts"
         },
         {
             "id": "2",
             "src": "./img/placeholder-image-1.png",
-            "title": "Project 2",
-            "description": "Lorem ipsum ipsum dolor sit amet, consectetur adipsdks skdnsnfd sjndjnfd sjdnjds sjjs djs d",
-            "link": "View In Github"
+            "title": "Flick Finder",
+            "description": "Website to assist users in exploring movies based on genre interests. Built with React.js, CSS, HTML, and The Movie Database (TMDB) API",
+            "link": "https://github.com/lumberger22/FlickFinder"
         },  
         {
             "id": "3",
             "src": "./img/placeholder-image-2.png",
-            "title": "Project 3",
-            "description": "Lorem ipsum ipsum dolor sit amet, consectetur adipsdks skdnsnfd sjndjnfd sjdnjds sjjs djs d",
-            "link": "View In Github"
+            "title": "Contact Manager",
+            "description": "Full Stack web application allowing users to create, store, and manage their contacts. Built with React.js, Spring Boot, and PostgreSQL",
+            "link": "#"
         }
     ]
 }
