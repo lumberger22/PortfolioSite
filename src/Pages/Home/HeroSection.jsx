@@ -10,8 +10,7 @@ export default function HeroSection() {
                         Engineer
                     </h1>
                     <p className="hero--section-description">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                        <br /> Nihil voluptatibus quas quam reiciendis ut.
+                   Welcome! Here, you'll discover projects that showcase my passion for transforming challenges into opportunities.
                     </p>
                 </div>
                 <a href="https://www.linkedin.com/in/lumberger540/" target="_blank">
