@@ -7,10 +7,10 @@ export default function ContactMe() {
                 <h2>Contact Me</h2>
                 <br/>
                 <p className="text-lg">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, fugit!
+                    Feel free to reach out and connect with me for collaborations, opportunities, or inquiries!
                 </p>
             </div>
-            <form className="contact--form--container">
+            <form action="https://formsubmit.co/lucasumberger@gmail.com" method="POST" className="contact--form--container">
                 <div className="container">
                     <label htmlFor="first-name" className="contact--label">
                         <span className="text-md">First Name</span>
@@ -74,7 +74,7 @@ export default function ContactMe() {
                     />
                 </label>
                 <div>
-                    <button className="btn btn-primary contact--form--btn">Submit</button>
+                    <button type="submit" className="btn btn-primary contact--form--btn">Submit</button>
                 </div>
             </form>
         </section>
