@@ -1,16 +1,16 @@
 # Portfolio Site
 
-# Check it out here -> 
+# Check it out here -> Getting Deployed
 
 Created by: **Lucas Umberger**
 
-**This is**
+**This is my personal portfolio site. It displays my skills, personal projects, resume, and a form for users to contact me through.**
 
- - Languages:
- - Framework: 
- - APIs used:
+ - Languages: React.js, Javascript, HTML, CSS
+ - Framework: Netlify 
+ - APIs used: N/A
 
-Time spent: **xx** hours spent in total
+Time spent: **32** hours spent in total
 
 ## User Features
 
