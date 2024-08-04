@@ -2,51 +2,51 @@
     "skills": [
         {
             "id": "1",
-            "src": "./img/product-chain-1.png",
+            "src": "./img/feather-pen-2.png",
             "title": "Front-End",
-            "description": "React.js, JavaScript, HTML5, CSS3, npm, Bootstrap, Foundation"
+            "description": "React.js, React Native, JavaScript, Android Studio, TailwindCSS, HTML5"
         },
         {
             "id": "2",
             "src": "./img/tag-1.png",
             "title": "Back-End",
-            "description": "Java, Python, C, Node.js, Spring Boot, PostgreSQL, Supabase, Ansible"
+            "description": "Java, Python, C, Node.js, Kotlin, PostgreSQL, Firebase, Redux, Supabase"
         },
         {
             "id": "3",
-            "src": "./img/feather-pen-2.png",
+            "src": "./img/product-chain-1.png",
             "title": "Collaboration",
-            "description": "Agile methodologies, Jira, Confluence, Git, DOORS, GitLab"
+            "description": "Agile methodologies, Jira, Confluence, Git, DOORS, GitLab, Ansible"
         },
         {
             "id": "4",
             "src": "./img/feather-pen-1.png",
             "title": "Concept Knowledge",
-            "description": "Data Structures and Algorithms, Linux, Scripting, API, Operating Systems, Version Control"
+            "description": "Data Structures, Algorithms, API Utilization, Networking, App Development, UI Design"
         }
     ],
 
     "portfolio": [
         {
             "id": "1",
-            "src": "./img/placeholder-image.png",
+            "src": "./img/LocalDrafts_main_page.png",
             "title": "Local Drafts",
             "description": "Website designed to facilitate the discovery of breweries in ones immediate vicinity. Built with React.js, CSS, HTML, and Open Brewery DB API",
             "link": "https://github.com/lumberger22/LocalDrafts"
         },
         {
             "id": "2",
-            "src": "./img/placeholder-image-1.png",
+            "src": "./img/TripMate_main_screens.png",
+            "title": "TripMate",
+            "description": "Full stack mobile app to track travel expenses and provide a comprehensive spending summary. Built with React Native, Firebase, and Redux",
+            "link": "https://github.com/lumberger22/spendr"
+        },
+        {
+            "id": "3",
+            "src": "./img/FlickFinder_main_page.png",
             "title": "Flick Finder",
             "description": "Website to assist users in exploring movies based on genre interests. Built with React.js, CSS, HTML, and The Movie Database (TMDB) API",
             "link": "https://github.com/lumberger22/FlickFinder"
-        },  
-        {
-            "id": "3",
-            "src": "./img/placeholder-image-2.png",
-            "title": "Contact Manager",
-            "description": "Full Stack web application allowing users to create, store, and manage their contacts. Built with React.js, Spring Boot, and PostgreSQL",
-            "link": "#"
         }
     ]
 }

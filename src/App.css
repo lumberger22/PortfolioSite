@@ -456,6 +456,10 @@ h3 {
     stroke: #006b6a;
 }
 
+.portfolio--section--images {
+    border-radius: 10px;
+}
+
 /* Portfolio Section Ends */
 
 /* Contact Me Style Start */
