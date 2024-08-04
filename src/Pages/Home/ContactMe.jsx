@@ -10,7 +10,7 @@ export default function ContactMe() {
                     Feel free to reach out and connect with me for collaborations, opportunities, or inquiries!
                 </p>
             </div>
-            <form action="https://formsubmit.co/lucasumberger@gmail.com" method="POST" className="contact--form--container">
+            <form action="https://formspree.io/f/mrbzqjgk" method="POST" className="contact--form--container">
                 <div className="container">
                     <label htmlFor="first-name" className="contact--label">
                         <span className="text-md">First Name</span>
@@ -67,6 +67,7 @@ export default function ContactMe() {
                 <label htmlFor="message" className="contact--label">
                     <span className="text-md">Message</span>
                     <textarea
+                        name="message"
                         className="contact--input text-md"
                         id="message" 
                         rows="8"
