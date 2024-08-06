@@ -1,6 +1,8 @@
 # Portfolio Site
 
-# Check it out here -> Getting Deployed
+# Check it out here -> [Portfolio Site](https://lucasumberger.netlify.app)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c854da6-efb4-4201-8c94-206c54fede0b/deploy-status)](https://app.netlify.com/sites/lucasumberger/deploys)
 
 Created by: **Lucas Umberger**
 
